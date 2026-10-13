@@ -13,7 +13,6 @@ I'm a Master of IT student at Monash University (finishing December 2026) based 
 - **CarerBridge** (private for now): helps Victorian families compare 732 dementia care homes using public data they can check. I was the top contributor in a team of six and built the AWS side: Next.js on Amplify, FastAPI and PostGIS on EC2 set up with CloudFormation, nightly backups to S3, and CI with SonarQube on every pull request.
 - **DeepNeuron recruitment platform** (private): Next.js on Cloudflare Workers and D1. I took it over in the middle of a recruitment cycle and ran it through 286 applications, then rebuilt the results flow so applicants can't receive the wrong outcome.
 - **Multi-cloud coursework** (private, as Monash requires): a serverless AWS stack built with SAM that talks to Azure, and a Kubernetes cluster on GCP that Ansible builds from nothing in about ten minutes.
-- [**PitchMate**](https://github.com/samlee226/PitchMate): a swipe-style app for students to find startup ideas and co-founders, built at the Monash MAC Hackathon 2026.
 
 **What I usually work with**
 
